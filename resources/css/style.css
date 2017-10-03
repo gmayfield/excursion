@@ -1,9 +1,12 @@
 h1 {
-  font-size: 100px;
-   color: black;
+  font: Verdana, san-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
 }
 
-html {
-  color: black;
-  font: sans-serif;
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
