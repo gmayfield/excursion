@@ -10,8 +10,11 @@ h1 {
   text-align: center;
 }
 
+p{
+  text-align: center;
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
 }
